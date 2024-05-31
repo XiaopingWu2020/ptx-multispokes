@@ -1,7 +1,7 @@
 # ptx-multispokes
 This is a matlab toolbox for designing parallel transmit (pTx) multispokes RF pulses.
-You may run the demo script, `demo.m`, to grab an idea of how this toolbox can be used to design pTx multispokes pulses to create uniform excitation across the human liver at 7 Tesla. 
-Note that the pulse designer relies on regularization tools (regtools) downloadable at http://www2.compute.dtu.dk/~pcha/Regutools/.
+You may run the demo script, `demo.m`, to grab an idea of how this toolbox can be used to design pTx multispokes pulses to create uniform excitation across an axial slice of the human liver at 7 Tesla. 
+Note that the regularization tools (regtools) the pulse designer relies on are obtained from http://www2.compute.dtu.dk/~pcha/Regutools/.
 
 If you use the toolbox, please consider citing the following paper:
 
